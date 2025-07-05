@@ -72,6 +72,7 @@ ul li {
     height: auto;
     border-bottom: 1px solid #ccc;
     border-right: none;
+    padding-left: 2rem; 
   }
 
   #main-doc {
